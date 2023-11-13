@@ -1,0 +1,10 @@
+let a =10;
+let b ="Sayan";
+let c = null;
+let loggedIn = true;
+let e ;
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+console.log(typeof loogedIn);
+console.log(typeof e);
